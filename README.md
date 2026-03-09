@@ -90,10 +90,8 @@ mvn spring-boot:run
 
 ## Captura de pantalla
 
-Dentro del directorio principal del proyecto se puede incluir una captura de pantalla del menú de la aplicación, por ejemplo `screenshot-literalura-menu.png`, y referenciarla así:
-
 ```markdown
-![Menú principal de LiterAlura](./screenshot-literalura-menu.png)
+![Menú principal de LiterAlura](screenshot-literalura-menu.png)
 ```
 
 ## Licencia
