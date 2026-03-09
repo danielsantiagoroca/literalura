@@ -1,0 +1,11 @@
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/AplicacionLiteralura.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/config/ConfiguracionRestTemplate.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/dto/AutorGutendexDto.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/dto/LibroGutendexDto.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/dto/RespuestaGutendexDto.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/model/Autor.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/model/Libro.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/repository/AutorRepository.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/repository/LibroRepository.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/service/LiteraluraMenuService.java
+/home/dani/Documentos/OracleONE/CHALLENGES FINALES/literalura/src/main/java/com/oracleone/literalura/service/ServicioGutendex.java

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.oracleone.literalura.service.ServicioGutendexTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.350 s -- in com.oracleone.literalura.service.ServicioGutendexTest

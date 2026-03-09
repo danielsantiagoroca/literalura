@@ -1,0 +1,5 @@
+com/oracleone/literalura/repository/AutorRepository.class
+com/oracleone/literalura/model/Autor.class
+com/oracleone/literalura/model/Libro.class
+com/oracleone/literalura/service/LiteraluraMenuService.class
+com/oracleone/literalura/repository/LibroRepository.class
