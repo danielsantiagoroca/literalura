@@ -1,6 +1,6 @@
 # LiterAlura
 
-Desafío **Oracle ONE** – Catálogo de libros con interacción por **consola**, usando la API [Gutendex](https://gutendex.com/) (Project Gutenberg) y **Spring Boot**. El proyecto cumple con las pautas del Trello del challenge según el volcado `WDyMPDMb - literalura-challenge-java.json`.
+Desafío **Oracle ONE** – Catálogo de libros con interacción por **consola**, usando la API [Gutendex](https://gutendex.com/) (Project Gutenberg) y **Spring Boot**.
 
 **Objetivo:** ofrecer al menos 5 opciones de interacción (buscar/libros guardados, listar libros, listar autores, autores vivos en un año, libros por idioma), con datos persistidos en PostgreSQL.
 
