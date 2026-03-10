@@ -90,9 +90,8 @@ mvn spring-boot:run
 
 ## Captura de pantalla
 
-```markdown
 ![Menú principal de LiterAlura](screenshot-literalura-menu.png)
-```
+
 
 ## Licencia
 
